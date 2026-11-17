@@ -1,0 +1,15 @@
+C:\Users\Sasha\source\repos\OOP\Triangle\Triangle\bin\Debug\net10.0\Triangle.exe
+C:\Users\Sasha\source\repos\OOP\Triangle\Triangle\bin\Debug\net10.0\Triangle.deps.json
+C:\Users\Sasha\source\repos\OOP\Triangle\Triangle\bin\Debug\net10.0\Triangle.runtimeconfig.json
+C:\Users\Sasha\source\repos\OOP\Triangle\Triangle\bin\Debug\net10.0\Triangle.dll
+C:\Users\Sasha\source\repos\OOP\Triangle\Triangle\bin\Debug\net10.0\Triangle.pdb
+C:\Users\Sasha\source\repos\OOP\Triangle\Triangle\obj\Debug\net10.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasha\source\repos\OOP\Triangle\Triangle\obj\Debug\net10.0\Triangle.AssemblyInfoInputs.cache
+C:\Users\Sasha\source\repos\OOP\Triangle\Triangle\obj\Debug\net10.0\Triangle.AssemblyInfo.cs
+C:\Users\Sasha\source\repos\OOP\Triangle\Triangle\obj\Debug\net10.0\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\source\repos\OOP\Triangle\Triangle\obj\Debug\net10.0\Triangle.dll
+C:\Users\Sasha\source\repos\OOP\Triangle\Triangle\obj\Debug\net10.0\refint\Triangle.dll
+C:\Users\Sasha\source\repos\OOP\Triangle\Triangle\obj\Debug\net10.0\Triangle.pdb
+C:\Users\Sasha\source\repos\OOP\Triangle\Triangle\obj\Debug\net10.0\Triangle.genruntimeconfig.cache
+C:\Users\Sasha\source\repos\OOP\Triangle\Triangle\obj\Debug\net10.0\ref\Triangle.dll
+C:\Users\Sasha\source\repos\OOP\Triangle\Triangle\obj\Debug\net10.0\Triangle.csproj.Up2Date
